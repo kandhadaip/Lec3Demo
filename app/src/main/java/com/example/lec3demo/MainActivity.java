@@ -14,6 +14,7 @@ import android.widget.Toast;
 
 import java.text.DecimalFormat;
 
+//Editing this file from remote
 public class MainActivity extends AppCompatActivity {
     final String TAG = "Concert Demo";
 
