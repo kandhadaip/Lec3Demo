@@ -12,6 +12,7 @@ import java.text.DecimalFormat;
 public class ResultsActivity extends AppCompatActivity {
     final String TAG = "Concert Dem";
 
+    //Added another one
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
